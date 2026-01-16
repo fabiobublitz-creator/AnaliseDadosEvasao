@@ -1,3 +1,6 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="40" height="40"/> &nbsp; &nbsp;</a>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40"/> </a>
+
 # Estruturação de cenário relacionado à evasão discente 
 
 Este repositório contém um projeto de Análise de Dados executado com base em um conjunto de dados disponíveis no sistema acadêmico de uma universidade federal. O projeto teve como objetivo estruturar o cenário relacionado à evasão acadêmica.
@@ -8,7 +11,7 @@ Este repositório contém um projeto de Análise de Dados executado com base em 
 - O objetivo do projeto foi visualizar o comportamento histórico da evasão discente entre cursos e entre diferentes Campus da universidade, possibilitando a análise de indicadores e a correlação entre variáveis. 
   
 # Conjunto de Dados 
-- Os dados foram coletados no sistema acadêmico da universidade, após tratamento e limpeza, foram submetidos à análises estatísticas descritivas, definições de correlações causais e temporais.
+- Os dados foram coletados no sistema acadêmico da universidade, após tratamento e limpeza, foram submetidos à análises estatísticas descritivas, definições de correlações causais e temporais com auxílio do PowerBI.
 
 # Conclusões 
 A análise histórica de dados da evasão discente permitiu identificar e interpretar tendências a partir de indicadores criados e já existentes, possibilitando a definição de estratégias para mitigar a evasão e promover a permanência. As percepções de maior impacto foram:
