@@ -8,7 +8,7 @@ Este repositório contém um projeto de Análise de Dados executado com base em 
 - O objetivo do projeto foi visualizar o comportamento histórico da evasão discente entre cursos e entre diferentes Campus da universidade, possibilitando a análise de indicadores e a correlação entre variáveis. 
   
 # Conjunto de Dados 
-- Os dados foram coletados no sistema acadêmico da universidade, após tratamento e limpeza dos dados, foram submetidos à análises estatísticas descritivas, definições de correlações causais e temporais.
+- Os dados foram coletados no sistema acadêmico da universidade, após tratamento e limpeza, foram submetidos à análises estatísticas descritivas, definições de correlações causais e temporais.
 
 # Conclusões 
 A análise histórica de dados da evasão discente permitiu identificar e interpretar tendências a partir de indicadores criados e já existentes, possibilitando a definição de estratégias para mitigar a evasão e promover a permanência. As percepções de maior impacto foram:
