@@ -29,10 +29,8 @@ Os resultados destacam a influência da modalidade de seleção na permanência 
 
 - [x] A equação utilizada pela gestão acadêmica para gerar o indicador de evasão ameniza a real situação de desistência acadêmica.
 
-- [x] A análise permitiu a sugestão de uma nova abordagem que deverá ser aprimorada pela direção.
 
 # Próximos Passos
 
-- [x] ANÁLISE COM DISCENTES REGULARES
-
-Com a definição do panorama geral da evasão na universidade objeto deste projeto, a análise deve ter continuidade a partir dos dados relacionados aos discentes em situação ativa (matriculados).
+- [x] A análise permitiu a sugestão de uma nova abordagem para a taxa de evasão como indicador, que deverá ser aprimorada.
+- [x] ANÁLISE COM DISCENTES REGULARES: Com a definição do panorama geral da evasão na universidade objeto deste projeto, a análise deve ter continuidade a partir dos dados relacionados aos discentes em situação ativa (matriculados).
