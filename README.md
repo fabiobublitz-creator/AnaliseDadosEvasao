@@ -1,5 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="40" height="40"/> &nbsp; &nbsp;</a>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="30" height="30"/> &nbsp; &nbsp;</a>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="30" height="30"/> </a>
 
 # Estruturação de cenário relacionado à evasão discente 
 
