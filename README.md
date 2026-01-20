@@ -22,7 +22,7 @@ Existem diferentes equações para mensurar a taxa de evasão, no entanto, os do
 
 - [x] EVASÃO EM DIFERENTES CURSOS
 
-Notou-se que o aumento da evasão não foi uniforme, uma vez que diferentes cursos apresentaram comportamentos distintos: enquanto alguns registraram tendências inversas, outros mantiveram a estabilidade do indicador. Essa heterogeneidade permitiu uma análise mais profunda das variáveis específicas que influenciam o desempenho e a evasão em cada área de graduação.
+Notou-se que o aumento da evasão não foi uniforme, uma vez que diferentes cursos apresentaram comportamentos distintos: enquanto alguns registraram tendências positivas, outros mantiveram a estabilidade do indicador ou diminuíram. Essa heterogeneidade permitiu uma análise mais profunda das variáveis específicas que influenciam o desempenho e a evasão em cada área de graduação.
 
 - [x] IDENTIFICAÇÃO DE VARIÁVEIS
 
