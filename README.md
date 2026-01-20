@@ -30,7 +30,7 @@ Os resultados destacam a influência da modalidade de seleção na permanência 
 
 # Limitações
 
-- [x] A equação utilizada pela gestão acadêmica para gerar o indicador de evasão ameniza a real situação de desistência acadêmica.
+- A equação utilizada pela gestão acadêmica para gerar o indicador de evasão ameniza a real situação de desistência acadêmica.
 
 
 # Próximos Passos
