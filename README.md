@@ -37,3 +37,11 @@ Os resultados destacam a influência da modalidade de seleção na permanência 
 
 - A análise permitiu a sugestão de uma nova abordagem para a taxa de evasão como indicador, que deverá ser aprimorada.
 - ANÁLISE COM DISCENTES REGULARES: Com a definição do panorama geral da evasão na universidade objeto deste projeto, a análise deve ter continuidade a partir dos dados relacionados aos discentes em situação ativa (matriculados).
+
+
+# Dashboards
+<p float="left">
+  <img src="Evasao.png" width="150"/>
+  <img src="Evasao2.png" width="150"/>
+  <img src="Evasao3.png" width="150"/>
+</p>
