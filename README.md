@@ -41,7 +41,7 @@ Os resultados destacam a influência da modalidade de seleção na permanência 
 
 # Dashboards
 <p float="left">
-  <img src="Evasao.png" width="150"/>
-  <img src="Evasao2.png" width="150"/>
-  <img src="Evasao3.png" width="150"/>
+  <img src="assets/Dashboards/Evasao.png" width="150"/>
+  <img src="assets/Dashboards/Evasao2.png" width="150"/>
+  <img src="assets/Dashboards/Evasao3.png" width="150"/>
 </p>
